@@ -1,2 +1,9 @@
 # Learning-Notes-and-Codes
 学习笔记及代码整理
+
+## 进度
+JavaScript 深入理解笔记 
+
+## 深入理解系列
+
+1. [javscript 深入理解之如何维护高质量的javascript代码]
