@@ -6,5 +6,6 @@ JavaScript 深入理解笔记
 
 ## 深入理解系列
 
-1. [javscript 深入理解之如何维护高质量的javascript代码]
-2. [javscript 深入理解之工厂模式](https://github.com/stt04521/Learning-Notes-and-Codes/issues/1)
+1. [javascript 深入理解之如何维护高质量的javascript代码]
+2. [javascript 深入理解之工厂模式](https://github.com/stt04521/Learning-Notes-and-Codes/issues/1)
+3. [javascript 深入理解之命名函数表达式]
